@@ -12,6 +12,12 @@ window.CLUB_IMAGES = [
     "alt": "ZAGA GAME — фото клуба",
     "isHero": false
   }
+  {
+    "file": "1.webp",
+    "src": "assets/club/1.webp",
+    "alt": "ZAGA GAME — фото клуба",
+    "isHero": false
+  }
 ];
 window.GAME_IMAGES = [
   {
