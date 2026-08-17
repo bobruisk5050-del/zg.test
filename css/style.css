@@ -341,7 +341,7 @@ body.near-cta .fab-book { opacity: 0; pointer-events: none; transform: translate
 }
 .hero-visual img.hero-photo {
   width: 100%; height: 100%;
-  object-fit: cover;
+  object-fit: contain;
   object-position: center 32%;
   display: block;
 }
